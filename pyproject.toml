@@ -8,6 +8,7 @@ readme = "README.md"
 # Fill in your name and e-mail here.
 authors = [
     {name = "<Banaan>", email = "Banaan@domain.com"},
+    {name = "<Jij bent een> email = "Jijbenteen@afm.nl}
 ]
 
 # Python version and dependencies
